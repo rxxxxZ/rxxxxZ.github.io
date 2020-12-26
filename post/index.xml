@@ -13,7 +13,8 @@
       <pubDate>Thu, 24 Dec 2020 20:10:46 +0800</pubDate>
       
       <guid>http://example.org/post/test/</guid>
-      <description>Typora + Hugo + Github 搭建静态blog </description>
+      <description>Typora + Hugo + Github 搭建静态blog  Typora: markdown 文件编辑器，可随意替换（目前Typora支持“所见即所写”）
+ </description>
     </item>
     
     <item>
