@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rxxxxZ.github.io/branch/</loc>
+    <loc>http://example.org/branch/</loc>
     <lastmod>2020-12-26T17:35:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rxxxxZ.github.io/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2020-12-26T17:35:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rxxxxZ.github.io/branch/test1/</loc>
+    <loc>http://example.org/branch/test1/</loc>
     <lastmod>2020-12-26T17:35:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rxxxxZ.github.io/post/</loc>
+    <loc>http://example.org/post/</loc>
     <lastmod>2020-12-24T20:10:46+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rxxxxZ.github.io/post/test/</loc>
+    <loc>http://example.org/post/test/</loc>
     <lastmod>2020-12-24T20:10:46+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rxxxxZ.github.io/post/branch/</loc>
+    <loc>http://example.org/post/branch/</loc>
   </url>
   
   <url>
-    <loc>https://rxxxxZ.github.io/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://rxxxxZ.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
