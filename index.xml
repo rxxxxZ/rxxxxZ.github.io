@@ -6,7 +6,16 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 20:10:46 +0800</lastBuildDate><atom:link href="https://rxxxxZ.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Dec 2020 23:47:07 +0800</lastBuildDate><atom:link href="https://rxxxxZ.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Try</title>
+      <link>https://rxxxxZ.github.io/post/try/</link>
+      <pubDate>Sat, 26 Dec 2020 23:47:07 +0800</pubDate>
+      
+      <guid>https://rxxxxZ.github.io/post/try/</guid>
+      <description>my try again </description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://rxxxxZ.github.io/post/test/</link>
