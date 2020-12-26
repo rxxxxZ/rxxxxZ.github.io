@@ -13,9 +13,16 @@
       <pubDate>Thu, 24 Dec 2020 20:10:46 +0800</pubDate>
       
       <guid>https://rxxxxZ.github.io/post/test/</guid>
-      <description>第一次
- 我的第一次
- </description>
+      <description>Typora + Hugo + Github 搭建静态blog </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rxxxxZ.github.io/post/branch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rxxxxZ.github.io/post/branch/</guid>
+      <description></description>
     </item>
     
   </channel>
